@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" automaticImage="JPEG" generate-combined-fragments="true">  
+  <object id="1" language="java" name="ca.mcgill.ecse211.Localization.UltrasonicLocalization" 
+    project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Localization/UltrasonicLocalization.java" binary="false" 
+    label="ultrasonicLocalization" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="308" y="0"/>    
+    <execution id="2">      
+      <position height="72" width="0" x="0" y="366"/>    
+    </execution>  
+  </object>  
+  <object id="5" language="java" name="ca.mcgill.ecse211.Localization.LightLocalization" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Localization/LightLocalization.java" binary="false" 
+    label="lightLocalization1" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="4">      
+      <position height="24" width="0" x="0" y="390"/>    
+    </execution>  
+  </object>  
+  <object id="6" language="java" name="ca.mcgill.ecse211.Navigation.RingDrop" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Navigation/RingDrop.java" binary="false" label="ringDrop" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="422" y="0"/>  
+  </object>  
+  <object id="7" language="java" name="ca.mcgill.ecse211.General.Wifi" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/General/Wifi.java" binary="false" label="wifi" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="169" y="0"/>    
+    <execution id="8">      
+      <position height="96" width="0" x="0" y="270"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="24" width="0" x="0" y="318"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="ca.mcgill.ecse211.General.FinalProject" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/General/FinalProject.java" binary="false" label="finalProject" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="590" y="0"/>    
+    <execution id="12">      
+      <position height="96" width="0" x="0" y="241"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="24" width="0" x="0" y="289"/>    
+    </execution>  
+  </object>  
+  <object id="15" language="java" name="ca.mcgill.ecse211.Rings.ColorIdentification" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Rings/ColorIdentification.java" binary="false" 
+    label="colorIdentification" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="651" y="0"/>  
+  </object>  
+  <object id="16" language="java" name="ca.mcgill.ecse211.Localization.LightLocalization" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Localization/LightLocalization.java" binary="false" 
+    label="lightLocalization" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="586" y="0"/>  
+  </object>  
+  <object id="17" language="java" name="ca.mcgill.ecse211.Rings.RingDetection" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Rings/RingDetection.java" binary="false" label="ringDetection" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="527" y="0"/>  
+  </object>  
+  <object id="18" language="java" name="ca.mcgill.ecse211.Rings.RingCollection" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Rings/RingCollection.java" binary="false" label="ringCollection" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="621" y="0"/>  
+  </object>  
+  <object id="19" language="java" name="ca.mcgill.ecse211.Localization.LocalNavigation" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Localization/LocalNavigation.java" binary="false" 
+    label="localNavigation" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="742" y="0"/>  
+  </object>  
+  <object id="20" language="java" name="ca.mcgill.ecse211.Navigation.Navigation" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Navigation/Navigation.java" binary="false" label="navigation" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="871" y="0"/>  
+  </object>  
+  <object id="21" language="java" name="ca.mcgill.ecse211.Localization.LocalOdometer" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Localization/LocalOdometer.java" binary="false" 
+    label="localOdometer" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="947" y="0"/>  
+  </object>  
+  <object id="22" language="java" name="ca.mcgill.ecse211.Navigation.Odometer" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/Navigation/Odometer.java" binary="false" label="odometer" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="807" y="0"/>  
+  </object>  
+  <object id="23" language="java" name="ca.mcgill.ecse211.General.FinalProject" project="FINAL_PROJECT_TEAM01" 
+    file="/FINAL_PROJECT_TEAM01/src/ca/mcgill/ecse211/General/FinalProject.java" binary="false" label="finalProject1" 
+    type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>  
+  </object>  
+  <message id="3" operation="doLocalization():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="9" operation="WifiVariables():void" asynchronous="false">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="13" operation="main(java.lang.String[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>
+</sequence-diagram>
