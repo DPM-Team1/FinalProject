@@ -17,6 +17,7 @@ import lejos.hardware.sensor.SensorModes;
 import lejos.robotics.SampleProvider;
 
 /**
+ * Import of project to github
  * This is the main class of the program
  * @author Garine Imamedjian
  * @author Rebecca Weill
